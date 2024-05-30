@@ -1,6 +1,6 @@
 # @ishaaan/headstarter
 
-**Simplify Your React Application Setup**
+**Simplify Your React Application Setup**  
 
 Developing a modern React application often requires setting up several dependencies and configurations right from the start. This initial setup can be time-consuming and repetitive, involving numerous commands to install various libraries such as routers, CSS frameworks, UI component libraries, state management libraries, and fetching libraries. Additionally, configuring these to work together seamlessly can be a source of many initial headaches for developers.
 

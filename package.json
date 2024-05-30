@@ -1,6 +1,6 @@
 {
   "name": "@ishaaan/headstarter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI to generate project boilerplates.",
   "main": "index.js",
   "type": "module",
@@ -29,6 +29,7 @@
     "framer-motion": "^11.2.9",
     "inquirer": "^9.2.19",
     "ora": "^8.0.1",
+    "progress": "^2.0.3",
     "react-router-dom": "^6.23.1",
     "shelljs": "^0.8.5",
     "zustand": "^4.5.2"

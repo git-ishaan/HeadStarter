@@ -50,9 +50,7 @@ Follow the interactive prompts to select the frameworks and libraries you wish t
 ### Short-Term Updates
 
 - **Next.js Support**: We plan to add support for Next.js, allowing users to easily set up a Next.js project with optimal configurations.
-- **Additional Packages**: Integration of essential packages such as:
-  - **JWT**: For handling JSON Web Tokens for authentication.
-  - **dotenv**: For managing environment variables.
+
 
 These updates aim to enhance the flexibility of the tool, making it suitable for more diverse development needs and simplifying more complex setups.
 

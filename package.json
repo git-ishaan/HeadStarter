@@ -1,42 +1,23 @@
 {
-  "name": "@ishaaan/headstarter",
-  "version": "1.0.4",
-  "description": "CLI to generate project boilerplates.",
+  "name": "@ishaan/headstarter",
+  "version": "1.0.0",
+  "description": "A modern headstarter tool developed with <3 by github.com/git-ishaan",
   "main": "index.js",
   "type": "module",
-  "bin": {
-    "headstarter": "./index.js"
-  },
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [
-    "cli",
-    "boilerplate",
-    "project",
-    "generator"
-  ],
-  "author": "Ishaan Pandey",
-  "license": "ISC",
-  "dependencies": {
-    "@chakra-ui/react": "^2.8.2",
-    "@emotion/react": "^11.11.4",
-    "@emotion/styled": "^11.11.5",
-    "@mui/material": "^5.15.19",
-    "axios": "^1.7.2",
-    "bootstrap": "^5.3.3",
-    "chalk": "^5.3.0",
-    "framer-motion": "^11.2.9",
-    "inquirer": "^9.2.19",
-    "ora": "^8.0.1",
-    "progress": "^2.0.3",
-    "react-router-dom": "^6.23.1",
-    "shelljs": "^0.8.5",
-    "zustand": "^4.5.2"
+  "bin": {
+    "headstarter": "./index.js"
   },
-  "devDependencies": {
-    "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.3"
-  }
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "inquirer": "^9.0.0",
+    "ora": "^6.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Ishaan",
+  "license": "ISC"
 }

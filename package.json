@@ -1,6 +1,6 @@
 {
   "name": "@ishaan/headstarter",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A modern headstarter tool developed with <3 by github.com/git-ishaan",
   "main": "index.js",
   "type": "module",
